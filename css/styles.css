@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+
+
+}
+
+h1 {
+  font-size: 5.62rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: black;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: black;
+  padding-bottom: 20px;
+
+
+}
+
+h3 {
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+color: #11999E;
+
+
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+
+.top-container {
+  background-color: #3f72af;
+  position: relative;
+  padding: 100px;
+}
+
+.middle-container{
+  margin: 100px 0;
+
+}
+
+.bottom-container{
+  background-color: #3f72af;
+  position: relative;
+  padding: 50px 0 20px;
+
+}
+
+.top-cloud{
+
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+
+}
+
+.julioCordero{
+  height: 170px;
+
+}
+
+
+.footer-link{
+  color: black;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.lock {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.server {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copy-right {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.linkedin-icon {
+  width: 4%;
+  color: #3f72af;
+}
+
+.watsApp-icon {
+  width: 5%;
+
+}
